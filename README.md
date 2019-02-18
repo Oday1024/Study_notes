@@ -1,1 +1,1 @@
-Study_notes
+技术学习笔记
